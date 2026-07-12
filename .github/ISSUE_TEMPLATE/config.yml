@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/aellosoftware/.github/blob/main/SECURITY.md
+    about: Use the private reporting instructions. Do not open a public security issue.
+  - name: Get product or technical support
+    url: https://github.com/aellosoftware/.github/blob/main/SUPPORT.md
+    about: Review the support routes before opening an issue.
