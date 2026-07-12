@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://aellosoftware.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./aello-logo-stacked-on-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./aello-logo-stacked-on-light.svg">
-      <img alt="Aello Software" src="./aello-logo-stacked-on-light.svg" width="280">
-    </picture>
+    <img alt="Aello Software" src="./aello-github-profile-banner-1280x360.png" width="640">
   </a>
 </p>
 
