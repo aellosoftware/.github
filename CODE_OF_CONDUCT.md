@@ -20,7 +20,7 @@ Project maintainers may edit or remove content, lock discussions, reject contrib
 
 ## Reporting
 
-Report conduct concerns privately to conduct@aellosoftware.com. Include relevant links or screenshots and enough context to understand the concern. Do not publish sensitive reports in project issues.
+Report conduct concerns privately to hello@aellosoftware.com. Include relevant links or screenshots and enough context to understand the concern. Do not publish sensitive reports in project issues.
 
 Aello will handle reports as privately as practical, but confidentiality cannot be guaranteed where investigation, safety, or legal obligations require disclosure.
 
